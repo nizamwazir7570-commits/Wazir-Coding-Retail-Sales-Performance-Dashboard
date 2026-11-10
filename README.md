@@ -34,7 +34,7 @@ The objective is to transform raw retail sales data into meaningful business ins
 - Average Selling Price
 
 ## Dashboard Preview
-![Retail Sales Dashboard](Dashboard_Screenshot.png)
+<img width="1470" height="876" alt="Retail Sales" src="https://github.com/user-attachments/assets/8668153e-15ac-49af-abf4-041c33c60f4e" />
 
 ## Business Objectives
 1. Identify top-performing products.
